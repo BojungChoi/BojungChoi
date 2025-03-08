@@ -51,13 +51,15 @@ Here are some ideas to get you started:
 
 
 
-
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
-
-
 ## 🗂️ Projects
 - 💬[강황석준 조별 리포지토리](https://github.com/BojungChoi/2025_Team_Curry_Jun)
 
 ## 📖 Study
 - 💻[정처기 실기 프로그래밍언어](https://github.com/BojungChoi/2025_C_Basic_license-)
+
+
+
+
+
+
+![snake gif](https://github.com/BojungChou/BojungChoi/blob/output/github-contribution-grid-snake.gif)
