@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 📥 Email: fake5378@naver.com
 
 ## 🏆 GitHub Stat and Languages
-[![BojungChoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=BojungChoi)](https://github.com/BojungChoi/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=BojungChoi)](https://github.com/BojungChoi/github-readme-stats)
 
 
 ## 🛠 Language & Tools
