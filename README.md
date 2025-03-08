@@ -50,6 +50,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 
 
+
+
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
+
 ## 🗂️ Projects
 - 💬[강황석준 조별 리포지토리](https://github.com/BojungChoi/2025_Team_Curry_Jun)
 
