@@ -30,5 +30,28 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Stat and Languages
 [![BojungChoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=BojungChoi)](https://github.com/BojungChoi/github-readme-stats)
-- ⚡ Fun fact: ...
--->
+
+
+## 🛠 Language & Tools
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <!-- Backend -->
+    <p><strong>Backend</strong></p>
+    <div>
+     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+    </div>
+    <!-- Database -->
+    <p><strong>Database</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"> 
+        <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
+    </div>
+<p><strong>Document</strong></p>
+
+<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+
+
+## 🗂️ Projects
+- 💬[강황석준 조별 리포지토리](https://github.com/BojungChoi/2025_Team_Curry_Jun)
+
+## 📖 Study
+💻[정처기 실기 프로그래밍언어](https://github.com/BojungChoi/2025_C_Basic_license-)
