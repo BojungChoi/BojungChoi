@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## 👩‍💻 Profile 
 🙆‍♀️ Name: BoJung Choi<br/>
 🖥️ Education<br/>
-▫️ 2025.02 ~ ing  : Widow 플랫폼 기반 IoT 시스템 개발자 과정 학습
+▫️ 2025.02 ~ ing  : Widow 플랫폼 기반 IoT 시스템 개발자 과정 학습<br/>
 📥 Email: fake5378@naver.com
 
 ## 🏆 GitHub Stat and Languages
