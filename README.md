@@ -57,6 +57,5 @@ Here are some ideas to get you started:
 ## 📖 Study
 - 💻[정처기 실기 프로그래밍언어](https://github.com/BojungChoi/2025_C_Basic_license-)
 
-![snake gif](https://github.com/BojungChoi/BojungChoi/blob/output/github-contribution-grid-snake.gif)
 
 
