@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 📥 Email: fake5378@naver.com
 
 ## 🏆 GitHub Stat and Languages
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=BojungChoi)](https://github.com/BojungChoi/github-readme-stats)
-
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=BojungChoi&theme=transparent&show_icons=true"/>
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BojungChoi&theme=transparent"/>
 
 ## 🛠 Language & Tools
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
