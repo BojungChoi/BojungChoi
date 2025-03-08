@@ -50,13 +50,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 
 
+![snake gif](https://github.com/BojungChoi/BojungChoi/blob/output/github-snake.svg)
+
+
 
 ## 🗂️ Projects
 - 💬[강황석준 조별 리포지토리](https://github.com/BojungChoi/2025_Team_Curry_Jun)
 
 ## 📖 Study
 - 💻[정처기 실기 프로그래밍언어](https://github.com/BojungChoi/2025_C_Basic_license-)
-
-![snake gif](https://github.com/BojungChoi/BojungChoi/blob/output/github-snake.svg)
 
 
