@@ -54,4 +54,4 @@ Here are some ideas to get you started:
 - 💬[강황석준 조별 리포지토리](https://github.com/BojungChoi/2025_Team_Curry_Jun)
 
 ## 📖 Study
-💻[정처기 실기 프로그래밍언어](https://github.com/BojungChoi/2025_C_Basic_license-)
+- 💻[정처기 실기 프로그래밍언어](https://github.com/BojungChoi/2025_C_Basic_license-)
