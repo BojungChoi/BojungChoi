@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ## 🛠 Language & Tools
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- Backend -->
+    <!-- Mt tech Stack 📚 -->
     <p><strong>Backend</strong></p>
     <div>
      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
