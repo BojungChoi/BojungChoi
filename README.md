@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Stat and Languages
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=BojungChoi&theme=transparent&show_icons=true"/>
+
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BojungChoi&theme=transparent"/>
 
 ## 🛠 Language & Tools
