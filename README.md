@@ -70,6 +70,6 @@ Here are some ideas to get you started:
 - 💬[강황석준 조별 리포지토리](https://github.com/BojungChoi/2025_Team_Curry_Jun)
 
 ## 📖 Study...ing...
-- 💻[C# WinApp]([https://github.com/BojungChoi/](https://github.com/BojungChoi/iot-winapp-2025))
+- 💻[C# WinApp](https://github.com/BojungChoi/iot-winapp-2025)
 
 
