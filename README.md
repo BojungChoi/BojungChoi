@@ -4,14 +4,15 @@
   </a>
 </p>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=BojungChoi&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/BojungChoi"
-  width="600"
-  height="300"
-/>
-</a>
-  
+<p align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=BojungChoi&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/BojungChoi"
+      width="600"
+      height="300"
+    />
+  </a>
+</p>
   
  
 ## 👩‍💻 Profile 
