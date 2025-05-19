@@ -43,17 +43,19 @@
 </p>
 
 ### Document
+<p align='left'>
 <img width="48" height="48" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-Docker-Logo-social-media-those-icons-flat-those-icons.png" alt="external-Docker-Logo-social-media-those-icons-flat-those-icons"/>
 <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-
+</p>
 ### Design Tool
+<p align='left'>
 <img width="50" height="50" src="https://img.icons8.com/plasticine/50/adobe-logo.png" alt="adobe-logo"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-indesign--v1.png" alt="adobe-indesign--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" alt="adobe-illustrator--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-premiere-pro--v1.png" alt="adobe-premiere-pro--v1"/>
-
+</p>
 
 
 
