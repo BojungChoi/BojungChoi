@@ -3,9 +3,8 @@
     <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=%20One%20commit%20at%20a%20time,%20one%20step%20closer&section=header&fontColor=7DFE74&fontAlign=50&fontAlignY=51&fontSize=35&rotate=2&stroke=6799FF&strokeWidth=1"/>
   </a>
 </p>
-
 <p align="center">
-  <a href="[https://www.gitanimals.org/](https://www.gitanimals.org/en_US/guild/712582211925217446)">
+  <a href="https://www.gitanimals.org/en_US/guild/712582211925217446">
     <img alt="guild stats" width="47%" 
          src="https://render.gitanimals.org/guilds/712582211925217446/draw"
          width="600"
