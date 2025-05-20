@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.gitanimals.org/">
+  <a href="[https://www.gitanimals.org/](https://www.gitanimals.org/en_US/guild/712582211925217446)">
     <img alt="guild stats" width="47%" 
          src="https://render.gitanimals.org/guilds/712582211925217446/draw"
          width="600"
