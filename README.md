@@ -6,19 +6,20 @@
 
 <p align="center">
   <a href="https://www.gitanimals.org/">
-      <img
-        <img alt="my stats" align="left" width="47%" 
-             src="https://render.gitanimals.org/guilds/712582211925217446/draw"
-             width="700"
-             height="300"
-             alt="gitanimals"/>
-    </a>
+    <img alt="guild stats" width="47%" 
+         src="https://render.gitanimals.org/guilds/712582211925217446/draw"
+         width="700"
+         height="300" />
+  </a>
+
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=BojungChoi&utm_content=farm">
-  <img alt="my stats" align="left" width="47%" 
-       src="https://render.gitanimals.org/farms/BojungChoi"
-       width="700"
-       height="300" />
+    <img alt="farm stats" width="47%" 
+         src="https://render.gitanimals.org/farms/BojungChoi"
+         width="700"
+         height="300" />
+  </a>
 </p>
+
   
  
 ## 👩‍💻 Profile 
