@@ -23,7 +23,7 @@
 ## 🏆 GitHub Stat and Languages
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=BojungChoi&theme=transparent&show_icons=true"/>
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BojungChoi&theme=transparent"/>
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=BojungChoi&theme=tokyonight&layout=compact&exclude_repo=iot-algorithm-2025,iot-dataanalysis-2025&v=1)
 
 ## 🛠 Language & Tools
 ### Using Languages
