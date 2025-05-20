@@ -9,14 +9,14 @@
       <img
         <img alt="my stats" align="left" width="47%" 
              src="https://render.gitanimals.org/guilds/712582211925217446/draw"
-             width="600"
+             width="700"
              height="300"
              alt="gitanimals"/>
     </a>
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=BojungChoi&utm_content=farm">
   <img alt="my stats" align="left" width="47%" 
        src="https://render.gitanimals.org/farms/BojungChoi"
-       width="600"
+       width="700"
        height="300" />
 </p>
   
