@@ -7,18 +7,17 @@
 <p align="center">
   <a href="https://www.gitanimals.org/">
       <img
-        src="https://render.gitanimals.org/guilds/712582211925217446/draw"
-        width="600"
-        height="300"
-        alt="gitanimals"
-      />
+        <img alt="my stats" align="left" width="47%" 
+             src="https://render.gitanimals.org/guilds/712582211925217446/draw"
+             width="600"
+             height="300"
+             alt="gitanimals"/>
     </a>
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=BojungChoi&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/BojungChoi"
-  width="600"
-  height="300"
-/>
+  <img alt="my stats" align="left" width="47%" 
+       src="https://render.gitanimals.org/farms/BojungChoi"
+       width="600"
+       height="300" />
 </p>
   
  
@@ -28,9 +27,10 @@
 📥 Email: fake5378@naver.com
 
 ## 🏆 GitHub Stat and Languages
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=BojungChoi&theme=transparent&show_icons=true"/>
+<img alt="my stats" align="left"
+             height="300" width="47%" src="https://github-readme-stats.vercel.app/api?username=BojungChoi&theme=transparent&show_icons=true"/>
 
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=BojungChoi&theme=tokyonight&layout=compact&exclude_repo=iot-algorithm-2025,iot-dataanalysis-2025&v=1)
+<img alt="my stats" align="left" height="300" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BojungChoi&theme=tokyonight&layout=compact&exclude_repo=iot-algorithm-2025,iot-dataanalysis-2025&v=1"/>
 
 ## 🛠 Language & Tools
 ### Using Languages
