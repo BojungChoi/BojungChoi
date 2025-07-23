@@ -69,6 +69,7 @@
 
 
 ## 🗂️ Projects
+- [SolarPannel] [태양광조도추적 프로젝트](https://github.com/BojungChoi/ESP32_Solar_Tracker)
 - [WPF] [WPF프로젝트](https://github.com/BojungChoi/iot-wpf-2025)
 - [WinApp] [WinApp프로젝트](https://github.com/BojungChoi/iot-winapp-2025)
 - [Python] [Python강의 프로젝트](https://github.com/BojungChoi/iot-python-2025)
